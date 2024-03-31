@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Theovanstratum1953, I have a PhD, MSc and a BSc in Information Technology.
-- 👀 I’m interested in NASA APIs and exploring them, programming in Python
+- 👀 I’m interested in APIs and exploring them, programming in Python
 - 🌱 I’m currently learning Flask
 - 💞️ I’m looking to collaborate on NASA APIs and building my own wrappers for them and use on a demo web site
 - 📫 How to reach me Just email: theovanstratum1953@gmail.com
